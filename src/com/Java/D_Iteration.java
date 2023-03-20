@@ -26,7 +26,7 @@ public class D_Iteration
         {
             System.out.println("bye");
         }
-        //nested noop
+        //nested loop
         for(int k=1; k<=4; k++)
         {
             for(int j=1; j<=4; j++)
