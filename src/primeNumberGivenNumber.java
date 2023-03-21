@@ -1,4 +1,4 @@
-public class Start
+public class primeNumberGivenNumber
 {
     public static void main(String[] args)
     {
