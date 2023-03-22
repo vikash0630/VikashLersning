@@ -9,11 +9,12 @@ public class Callpackage2 extends CallPackage
             p.rollno=8;
             //p.name="vikash"; cant call private methods
             p.marks=57;
-            p.age=30;
+            p.age=40;
 
 
             System.out.println(p.rollno);
             System.out.println(p.marks);
             System.out.println(p.age);
+            System.out.println("hello");
         }
 }
