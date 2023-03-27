@@ -16,6 +16,7 @@ public class primeNumberGivenNumber
        }
        if (count==1){
            System.out.println("number is not a prime "+n);
+           System.out.println("number is not a prime "+n);
        }
 
     }
